@@ -1,0 +1,47 @@
+@import '../../node_modules/@substructure/substructure-portable/main.css';
+
+/* Text */
+
+:root {
+  --theme-dark-primary: #1D1726;
+  
+  background-color: var(--theme-dark-primary);
+  color: white;
+  font-family: 'Inter';
+}
+
+h1, h2, h3, h4, h5, h6,
+.u-text-medium,
+.u-text-large,
+.u-text-huge,
+.u-text-gigantic,
+.u-text-enormous {
+  font-family: 'InterDisplay';
+  font-weight: 400;
+  letter-spacing: .025em;
+}
+
+.u-text-accent::after {
+  background-image: url('../static/images/squigle-green.svg');
+  background-repeat: no-repeat;
+  content: '';
+
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+/* Backgrounds */
+
+.u-background-theme-dark {
+  background-color: var(--theme-dark-primary);
+}
+
+
+/* Filters */
+
+.u-filter-trippy {
+  mix-blend-mode: luminosity;
+}

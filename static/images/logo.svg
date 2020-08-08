@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="26px" viewBox="0 0 32 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Logo</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop" transform="translate(-38.000000, -42.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <path d="M44.4,42 L44.4,67.6 L38,67.6 L38,42 L44.4,42 Z M70,54.8 L70,61.2 L63.6,67.6 L63.6,54.8 L70,54.8 Z M57.2,42 L57.2,61.2 L50.8,67.6 L50.8,42 L57.2,42 Z M70,42 L70,48.4 L63.6,54.8 L63.6,42 L70,42 Z" id="Logo"></path>
+        </g>
+    </g>
+</svg>
